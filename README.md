@@ -97,9 +97,9 @@ Edit
 bash
 Copy
 Edit
+
 git clone https://github.com/Muhammad-junaid-mujtaba/Multimodal-Product-Classification-Query-System.git
-cd multimodal-ai-product-detection
-pip install -r requirements.txt
+
 🧠 Run Image Classifier
 bash
 Copy
